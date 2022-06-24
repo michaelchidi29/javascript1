@@ -1,3 +1,3 @@
-let data = 'michael chidi: 6FT: Nigeria';
+let data = 'michael Chidi: 6FT: Nigeria';
 
 console.log(data)
